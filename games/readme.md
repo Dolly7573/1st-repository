@@ -9,7 +9,11 @@
 ## Используемые библиотеки
 
 *Pandas* 
+
 *Matplotlib* 
+
 *NumPy* 
+
 *Plotly.express* 
-*scipy.stats*
+
+*Scipy.stats*
