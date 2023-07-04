@@ -8,5 +8,7 @@
 
 ## Используемые библиотеки
 *Pandas* 
+
 *Plotly.express* 
+
 *NumPy*
