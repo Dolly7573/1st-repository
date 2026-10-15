@@ -1,10 +1,13 @@
-## Описание
+# Borrower Reliability
 
-На основе данных кредитного отдела банка исследовал влияние семейного положения и количества детей на факт погашения кредита в срок. Была получена информация о данных. Определены и обработаны пропуски. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Категоризованы данные. Один датафрейм декомпозирован на три.
+## Description
 
-## Задача
+Using data from a bank's lending department, this project investigates the relationship between marital status, the number of children, and on-time loan repayment. The analysis includes an initial data review, missing-value handling, data type conversion, duplicate removal, and categorization. One DataFrame was decomposed into three.
 
-На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок.  
+## Objective
 
-## Используемые библиотеки
-*Pandas* 
+Use customer solvency data to investigate whether marital status and the number of children are associated with on-time loan repayment.
+
+## Libraries
+
+*Pandas*

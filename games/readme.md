@@ -1,19 +1,13 @@
-## Описание
+# Factors Behind Video Game Success
 
-Выявлены параметры, определяющие успешность игры в разных регионах мира. На основании этого подготовлен отчет для магазина компьютерных игр для планирования рекламных кампаний. Проведена предобработка данных, анализ. Выбран актуальный период для анализа. Составлены портреты пользователей каждого региона. Проверены гипотезы: средние пользовательские рейтинги платформ Xbox One и PC одинаковые;средние пользовательские рейтинги жанров Action и Sports разные. При анализе использовал критерий Стьюдента для независимых выборок.
+## Description
 
-## Задача
+This project identifies factors associated with video game success across different regions and prepares a report to support advertising campaign planning for a video game retailer. It includes data preprocessing, exploratory analysis, selection of a relevant analysis period, and regional user profiles. Independent-samples Student's t-tests are used to test whether average user ratings are the same for Xbox One and PC games, and whether they differ between the Action and Sports genres.
 
-Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры
+## Objective
 
-## Используемые библиотеки
+Use historical video game sales, user and critic reviews, genres, and platforms to identify patterns associated with game success.
 
-*Pandas* 
+## Libraries
 
-*Matplotlib* 
-
-*NumPy* 
-
-*Plotly.express* 
-
-*Scipy.stats*
+*Pandas*, *Matplotlib*, *NumPy*, *Plotly Express*, *SciPy stats*
