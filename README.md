@@ -1,9 +1,11 @@
-# 1st-repository
+# Data Analysis Projects
 
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме профессии "Аналитик данных".
+These projects were completed as part of the Data Analyst training program at Yandex Practicum.
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Исследование надёжности заёмщиков — анализ банковских данных](loans) | На основе статистики о платёжеспособности клиентов необходимо исследовать, влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок | *Pandas* |
-| [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](real_estate) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир | *Pandas* *Plotly.express* *NumPy*|
-| [Изучение закономерностей, определяющих успешность игр](games) | Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, нужно выявить закономерности, определяющие успешность игры  | *Pandas* *Matplotlib* *NumPy* *Plotly.express* *Scipy.stats*|
+| Project | Description | Libraries |
+| :--- | :--- | :--- |
+| [Borrower Reliability: Analysis of Banking Data](loans) | Use customer solvency data to investigate whether marital status and the number of children are associated with on-time loan repayment. | *Pandas* |
+| [Apartment Sales in Saint Petersburg: Real Estate Market Analysis](real_estate) | Use Yandex Real Estate data to determine property market values and typical apartment characteristics. | *Pandas*, *Plotly Express*, *NumPy* |
+| [Factors Behind Video Game Success](games) | Analyze historical video game sales, user and critic reviews, genres, and platforms to identify patterns associated with game success. | *Pandas*, *Matplotlib*, *NumPy*, *Plotly Express*, *SciPy stats* |
+
+Each project folder contains an English overview and an analysis notebook. Notebook filenames are preserved. Russian source-data values and matching expressions are retained where required by the analysis. Previously saved notebook outputs are historical results and may contain Russian text; translated chart labels and messages appear when the notebooks are rerun. The original datasets are not included in this repository.

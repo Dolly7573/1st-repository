@@ -1,14 +1,13 @@
-## Описание
+# Real Estate Market Analysis
 
-На основе данных сервиса Яндекс.Недвижимость определена рыночная стоимость объектов недвижимости разного типа, типичные параметры квартир, в зависимости от удаленности от центра. Проведена предобработка данных. Добавлены новые данные.Построены гистограммы, боксплоты, диаграммы рассеивания.
+## Description
 
-## Задача
+Using Yandex Real Estate data, this project determines market values for different property types and typical apartment characteristics in relation to distance from the city center. The analysis includes data preprocessing, derived features, histograms, box plots, and scatter plots.
 
-Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир  
+## Objective
 
-## Используемые библиотеки
-*Pandas* 
+Use Yandex Real Estate data to determine property market values and typical apartment characteristics.
 
-*Plotly.express* 
+## Libraries
 
-*NumPy*
+*Pandas*, *Plotly Express*, *NumPy*
